@@ -1,0 +1,14 @@
+{
+    "name": "Team 5 Web Service",
+    "version": "0.1.0",
+    "description": "The Team 5 Web Service API Documentation",
+    "title": "Lab API Doc",
+    "url" : "localhost:5000",
+    "order": [
+      "Hello",
+      "Params",
+      "Wait",
+      "DemoSql",
+      "Auth"
+    ]
+  }
